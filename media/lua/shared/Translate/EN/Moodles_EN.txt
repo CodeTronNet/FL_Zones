@@ -1,0 +1,10 @@
+Moodles_EN {
+	Moodles_FlZoneRadiation_Bad_lvl1 = "Radiation",
+	Moodles_FlZoneRadiation_Bad_desc_lvl1 = "It smells funny, i should wear a gas mask",
+	Moodles_FlZoneRadiation_Bad_lvl2 = "Radiation",
+	Moodles_FlZoneRadiation_Bad_desc_lvl2 = "High levels of radiation",
+	Moodles_FlZoneRadiation_Bad_lvl3 = "Radiation",
+	Moodles_FlZoneRadiation_Bad_desc_lvl3 = "High levels of radiation",
+	Moodles_FlZoneRadiation_Bad_lvl4 = "Radiation",
+	Moodles_FlZoneRadiation_Bad_desc_lvl4 = "High levels of radiation",
+}
